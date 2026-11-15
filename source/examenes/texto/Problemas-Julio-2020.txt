@@ -1,0 +1,120 @@
+Problemas-Julio-2020.pdf
+
+        Anónimo
+        Máquinas y Motores Térmicos
+        1º Máster en Ingeniería Industrial
+        Escuela Técnica Superior de Ingenieros Industriales
+        Universidad Politécnica de Madrid
+
+         Accede al documento original
+
+                                                                    Reservados todos los derechos.
+    No se permite la explotación económica ni la transformación de esta obra. Queda permitida la impresión en su totalidad.
+a64b0469ff35958ef4ab887a898bd50bdfbbe91a-7008865
+
+                                                  y                                                        +41/1/40+                                                 y
+
+                                                  Extraordinario Máquinas y Motores Térmicos - 08/07/20               Duración: 75 minutos
+
+                                                      Marque el DNI mediante selección de números en           Omitir las letras del DNI (o documentación identi-
+                                                  el recuadro de la derecha; y escriba el número de ma-    ﬁcativa equivalente). Si el número de cifras del identi-
+                                                  trícula, el DNI, el nombre y apellidos en la caja de la  ﬁcador es menor de 8, rellenar con ceros a la izquierda.
+                                                  izquierda.                                               Si es mayor de 8, incluir solo las primeras 8 cifras.
+
+                                                      Solo una respuesta es correcta por pregunta.                                         DNI
+                                                      Pregunta acertada: +1                                             00000000
+                                                      Pregunta fallada: 0                                               11111111
+                                                      Pregunta en blanco o con varias respuestas: 0                     22222222
+                                                                                                                        33333333
+                                                     Matrícula:                                                         44444444
+                                                     DNI:                                                               55555555
+                                                     Nombre:                                                            66666666
+                                                                                                                        77777777
+                                                     Apellidos:                                                         88888888
+                                                                                                                        99999999
+
+                                                  Q1 Un MEC de 4 tiempos de aspiración natural con 2 cilindros de diámetro 9.2 cm y relación carrera/diámetro
+                                                  igual a la unidad da una potencia en el eje de 58 kW cuando trabaja con una velocidad media de pistón de 10.3
+                                                  m/s. Calcular la presión media efectiva.
+
+                                                     25.1 bar  20.3 bar  51.1 bar                          15.3 bar   10.5 bar
+                                                     18.8 bar  0.28 bar  28 bar                            9.7 bar    32.4 bar
+                                                     4.5 bar   16.9 bar  38.1 bar                          22.8 bar   12.1 bar
+
+                                                  Q2 Un motor alternativo de 4 tiempos sobrealimentado con una cilindrada de 2650 cm3 obtiene una potencia
+                                                  en el eje de 57 kW a un régimen de 3560 min−1, con una presión y temperatura tras el post-enfriador de
+                                                  p = 2 bar y T = 35 oC respectivamente. Sabiendo que los rendimientos volumétrico, indicado y mecánico son
+
+                                                  respectivamente 85 %, 46 % y 62 %, calcular el dosado relativo de funcionamiento.
+
+                                                  Datos: Fe=1/17; Hc = 43000 kJ/kg; Ra = 283 J/kgK.
+
+                                                     0.233     0.146     0.032                             0.271      0.813
+                                                     0.515     0.446     0.137                             0.119      0.377
+                                                     0.476     0.358     0.773                             0.159      0.048
+
+                                                  Q3 Un MEP de carga homogénea sobrealimentado de 4 tiempos moderno consume 17.8 l/h de combustible a
+                                                  4200 min−1 en un ensayo en celda de ensayos. En dichas condiciones de funcionamiento, la presión y temperatura
+                                                  de soplado de turbo son respectivamente de 1.4 bar (manométricos) y 36 oC. Sabiendo que se trata de un motor
+                                                  con una cilindrada de 940 cm3, obtener el rendimiento volumétrico en el punto de funcionamiento.
+                                                  Datos: Fe=1/15.6; ρf = 850 kg/m3; patm = 1 bar; Tatm = 20 oC; Ra = 283 J/kgK.
+
+                                                     62.5 %    72.6 %    39.5 %                            27.7 %     87.5 %
+                                                     22.4 %    94.6 %    43.5 %                            56.4 %     50.5 %
+                                                     34.4 %    12.1 %    53.2 %                            15 %       68.7 %
+
+                                                  Q4 De un ciclo regenerativo de turbina de vapor se sabe que la entalpía a la entrada y salida de la turbina
+                                                  son de 3610 kJ/kg y 2430 kJ/kg respectivamente (temperatura de condensación de 40 oC) y que el beneﬁcio es
+                                                  de 6.3 %. Calcular el rendimiento térmico del ciclo.
+                                                  Datos: Calor especíﬁco del agua a presión constante, 4.18 kJ/kg K.
+                                                  Nota: Considerar el trabajo de bombeo despreciable.
+
+                                                     14.4 %    3.4 %     41.1 %                            18.9 %     135 %
+                                                               50.2 %    47 %                              148 %
+                                                     72.1 %    39.1 %    67.9 %                            33.9 %     36.6 %
+
+                                                  y  11.4 %                                                           27.2 %                                         y
+
+Reservados todos los derechos. No se permite la explotación económica ni la transformación de esta obra. Queda permitida la impresión en su totalidad.
+a64b0469ff35958ef4ab887a898bd50bdfbbe91a-7008865
+
+                                                  y                          +41/2/39+                                                                               y
+
+                                                  Q5 Un MCIA de 101 kW, con un rendimiento efectivo del 32.3 % y un caudal másico de gases de 241 g/s,
+                                                  es usado en una instalación de cogeneración. Se sabe que un 31.1 % de la energía asociada al combustible
+                                                  acaba en el sistema de refrigeración y que la energía restante corresponde a energía térmica de los gases de
+                                                  escape. El sistema de recuperación de calor para el proceso industrial incluye dos intercambiadores: un primer
+                                                  intercambiador con el líquido refrigerante, que recupera un 76.5 % de su energía, y otro con los gases de escape,
+                                                  de forma que estos salen a una temperatura de 161oC por la chimenea. Sabiendo que la temperatura ambiental
+                                                  es de 25oC, calcular el rendimiento eléctrico equivalente (rendimiento real) del sistema de cogeneración.
+                                                  Datos: cp=1 kJ/kgK. Rendimiento de caldera de referencia de generación de calor: 90 %.
+                                                  Nota: Suponer rendimiento del generador eléctrico 100 %.
+
+                                                     62.4 %  39.6 %  77.3 %  36.5 %     26.3 %
+                                                     82.2 %  89.4 %  72.6 %  1%         46.5 %
+                                                     52 %    8.2 %   32.3 %  97.9 %     54.6 %
+
+                                                  Q6 De una turbina de gas de ciclo simple se conoce que la temperatura de entrada a la turbina es de 1375
+                                                  oC, que la relacion de compresión es de 8.7:1 y que los rendimientos isentrópicos de compresor y turbina son
+
+                                                  de 0.83 y 0.88 respectivamente. Suponiendo despreciables las pérdidas de cargay que el gas es ideal en todo el
+
+                                                  ciclo con las propiedades del aire, calcular el rendimiento térmico del ciclo.
+                                                  Datos: Hc=54000 kJ/kg; F = 1/49,5; γ = 1,4, cp = 1 kJ/kgK. Condiciones ambientales 760 mmHg y 15 oC.
+                                                  Nota: Temperatura de referencia para la entalpía 0 oC.
+
+                                                     58.4 %  48.3 %  31.1 %  22.7 %     94.4 %
+                                                     17.9 %  66.8 %  76.5 %  40 %       51 %
+                                                     10.9 %  12.9 %  104 %   35.3 %     37.1 %
+
+                                                     Declaro que he realizado la prueba de evaluación conforme a las indicaciones facili-
+                                                     tadas, y sin haber hecho uso de ningún recurso externo que no haya sido autorizado
+                                                     expresamente. Asumo toda la responsabilidad administrativa y disciplinaria que
+                                                     pudiera derivarse de la utilización de medios fraudulentos.
+
+                                                     Firma digital:
+
+                                                  y                                                                                                                  y
+
+Reservados todos los derechos. No se permite la explotación económica ni la transformación de esta obra. Queda permitida la impresión en su totalidad.
+

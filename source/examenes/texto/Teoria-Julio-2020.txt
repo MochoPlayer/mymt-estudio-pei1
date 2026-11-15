@@ -1,0 +1,167 @@
+Teoria-Julio-2020.pdf
+
+        Anónimo
+        Máquinas y. Motores Térmicos
+        1º Máster en Ingeniería Industrial
+        Escuela Técnica Superior de Ingenieros Industriales
+        Universidad Politécnica de Madrid
+
+         Accede al documento original
+
+                                                                    Reservados todos los derechos.
+    No se permite la explotación económica ni la transformación de esta obra. Queda permitida la impresión en su totalidad.
+a64b0469ff35958ef4ab887a898bd50bdfbbe91a-11194282
+
+                                                   y                                                                    +13/1/24+                                       y
+
+                                                   Extraordinario Máquinas y Motores Térmicos - 08/07/20                           Duración: 20 minutos
+
+                                                       Marque el DNI mediante selección de números en             Omitir las letras del DNI (o documentación identi-
+                                                   el recuadro de la derecha; y escriba el número de ma-      ﬁcativa equivalente). Si el número de cifras del identi-
+                                                   trícula, el DNI, el nombre y apellidos en la caja de la    ﬁcador es menor de 8, rellenar con ceros a la izquierda.
+                                                   izquierda.                                                 Si es mayor de 8, incluir solo las primeras 8 cifras.
+
+                                                       Solo una respuesta es correcta por pregunta.                                           DNI
+                                                       Pregunta acertada: +1                                               00000000
+                                                       Pregunta fallada: -1/3 (4 posibilidades); -1/2 (3 po-               11111111
+                                                   sibilidades); -1 (2 posibilidades)                                      22222222
+                                                       Pregunta en blanco o con varias respuestas: 0                       33333333
+                                                                                                                           44444444
+                                                   .                                                                       55555555
+                                                                                                                           66666666
+                                                      Matrícula:                                                           77777777
+                                                                                                                           88888888
+                                                      DNI:                                                                 99999999
+
+                                                      Nombre:
+
+                                                      Apellidos:
+
+                                                   Q1 Un mayor rendimiento interno o isentrópico de un Q6 A igualdad del resto de parámetros, si la turbi-
+
+                                                   turbocompresor con una relación de compresión dada na de gas de ciclo simple A posee mayor relación de
+
+                                                   conlleva:                                                  compresión que la turbina B (también de ciclo simple):
+
+                                                      Una mayor potencia interna.                             ■ La turbina B tiene mayor temperatura de escape.
+
+                                                         Una mayor presión de salida.                         La turbina B tiene mayor rendimiento de ciclo.
+                                                      ■ Una menor temperatura de salida.                      La turbina A tiene mayor temperatura de escape.
+
+                                                   Q2 ¿Cuál es verdadera?                                     La turbina A tiene mayor rendimiento de ciclo.
+
+                                                      La presión máxima en un MCIA se produce du-             Q7 Del total de la energía química disponible en el
+                                                      rante la carrera de expansión.                          combustible, ¿cuánta se convierte en energía útil en el
+                                                                                                              eje en un MEP de automoción en su punto óptimo?
+                                                      La presión máxima en un MCIA se produce du-
+
+                                                      rante la carrera de compresión.                         60-65 %.
+
+                                                          La presión máxima en un MCIA se produce exac-              40-55 %.
+                                                          tamente en el PMS.                                         30-35 %.
+                                                                                                              Q8 ¿Cuál de los siguientes procesos de un MCIA ab-
+                                                   Q3 El conjunto de elementos mecánicos que transfor-        sorbe trabajo?
+                                                   ma hidrógeno en energía mecánica es:
+
+                                                          Un motor térmico.                                          Expansión.
+                                                          Una pila de combustible.                                   Admisión.
+                                                      ■ Una máquina térmica.                                         Combustión.
+                                                                                                              Q9 ¿Qué combustible no se puede consumir en un
+                                                   Q4 ¿Cuál de los siguientes conjuntos de elementos          MEP?
+                                                   mecánicos es una máquina térmica generadora?
+
+                                                          Turbina centrípeta.                                    Biogas.
+                                                          Grupo turbo.                                           Gas natural.
+                                                      ■ Compresor de tornillo.                                ■ Biodiésel.
+
+                                                   Q5 ¿Cuál no es un motor de combustión externa?
+
+                                                         Máquina de vapor.
+                                                      ■ Turborreactor.
+
+                                                   y  Motor Stirling.                                                                                                   y
+
+                                                   Reservados todos los derechos. No se permite la explotación económica ni la transformación de esta obra. Queda permitida la impresión en su totalidad.
+a64b0469ff35958ef4ab887a898bd50bdfbbe91a-11194282
+
+                                                   y                                                           +13/2/23+                                                                y
+
+                                                   Q10 ¿Qué condiciones de referencia se toman para Q16 ¿En cuál de los siguientes motores basados en
+                                                   calcular el rendimiento volumétrico en un motor so- turbomáquinas no tiene sentido utilizar un condensa-
+
+                                                   brealimentado mecánicamente sin postenfriamiento? dor?
+
+                                                      Presión y temperatura ambientales.                   ■ Turbina de gas.
+
+                                                      Presión y temperatura detrás del grupo turbo.        Ciclo combinado.                                                                Reservados todos los derechos. No se permite la explotación económica ni la transformación de esta obra. Queda permitida la impresión en su totalidad.
+
+                                                          Presión y temperatura detrás del compresor.             En todas las alternativas propuestas tiene senti-
+                                                                                                                  do.
+                                                   Q11 ¿Con cuál de estos motores térmicos no se puede            Turbina de vapor.
+                                                   hacer cogeneración usando energías térmicas residua-
+                                                   les?                                                    Q17 ¿En qué ciclo es habitual encontrarse una mayor
+                                                                                                           presión de admisión de la turbina?
+                                                      ■ Turbina de gas de ciclo abierto.
+
+                                                      Ciclo combinado.                                     Suelen ser parecidas.
+
+                                                          Turbina de vapor.                                       Turbina de gas.
+                                                   Q12 El trabajo indicado de un ciclo teórico de aire        ■ Turbina de vapor.
+                                                   es:
+                                                                                                           Q18 ¿Cuántas máquinas térmicas diferentes se pue-
+                                                          Mayor que el del MCIA que simula.                den encontrar en un turbohélice?
+                                                          El trabajo indicado del MCIA que simula.
+                                                                                                              ■ 2.
+
+                                                      Menor que el del MCIA que simula.                    3.
+
+                                                   Q13 Una disminución en la temperatura del vapor                1.
+                                                   vivo de un ciclo de vapor simple, a igualdad del resto
+                                                   de parámetros, implica:                                 Q19 Una turbina de vapor con recalentamiento inter-
+                                                                                                           medio y dos extracciones regenerativas (una de mezcla
+                                                          Menor presión de salida de turbina.              y una de superﬁcie) tendrá:
+                                                          Menor rendimiento interno de turbina.
+                                                      ■ Menor rendimiento térmico del ciclo.                  ■ Mayor trabajo especíﬁco de no existir la extrac-
+                                                                                                                  ción regenerativa de superﬁcie.
+                                                   Q14 ¿Cuál de las siguientes emisiones cobra mayor
+                                                   importancia en una turbina de vapor de una central             Menor trabajo especíﬁco de no existir la extrac-
+                                                   nuclear?                                                       ción regenerativa de superﬁcie.
+
+                                                                                                                  El mismo trabajo especíﬁco de no existir la ex-
+                                                                                                                  tracción regenerativa de superﬁcie.
+
+                                                          CO2.                                             Q20 ¿Cuál de los siguientes parámetros no pertene-
+                                                      ■ Ninguna de las otras.                              cería a un ciclo combinado?
+
+                                                          NOx.                                                                                                                       o
+                                                          SOx.
+                                                   Q15 ¿Cuál es una parte del pistón de un MCIA?                  Temperatura del vapor vivo: 850 C.
+
+                                                          Falda.                                                  Rendimiento isentrópico del compresor de la TG:
+                                                                                                                  85 %.
+                                                                                                              ■ Presión de la extracción de mezcla: 20 bar.
+
+                                                      Bulón.
+
+                                                      Segmento.
+
+                                                                                          .
+
+                                                   y                                                                                                                                    y
+
+                                                      No todas las ofertas son para ti. WuolahJobs te enseña las que sí pueden serlo.
+a64b0469ff35958ef4ab887a898bd50bdfbbe91a-11194282
+
+                                                   y                     +13/3/22+                                                     y
+
+                                                      Declaro que he realizado la prueba de evaluación conforme a las indicaciones facili-  Reservados todos los derechos. No se permite la explotación económica ni la transformación de esta obra. Queda permitida la impresión en su totalidad.
+                                                      tadas, y sin haber hecho uso de ningún recurso externo que no haya sido autorizado
+                                                      expresamente. Asumo toda la responsabilidad administrativa y disciplinaria que
+                                                      pudiera derivarse de la utilización de medios fraudulentos.
+
+                                                      Firma digital:  .
+
+                                                   y                                                                                   y
+
+                                                      No todas las ofertas son para ti. WuolahJobs te enseña las que sí pueden serlo.
+

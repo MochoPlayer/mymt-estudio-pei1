@@ -1,0 +1,174 @@
+PEC1_Teoria_20_11_2025.pdf
+
+        Anónimo
+        Máquinas y Motores Térmicos
+        1. º Máster en Ingeniería Industrial
+        Escuela Técnica Superior de Ingenieros Industriales
+        Universidad Politécnica de Madrid
+
+         Accede al documento original
+
+                                                                    Reservados todos los derechos.
+    No se permite la explotación económica ni la transformación de esta obra. Queda permitida la impresión en su totalidad.
+a64b0469ff35958ef4ab887a898bd50bdfbbe91a-12846762
+
+                                                   1. ¿Cuál de las siguientes afirmaciones es verdadera?
+
+                                                   a. Los rendimientos térmicos de los motores de combustión interna solamente tienen
+
+                                                   en cuenta el calor aportado al fluido motor.
+
+                                                   b. El rendimiento interno de una máquina térmica toma como referencia la energía
+
+                                                   química del combustible.
+
+                                                   c. Ninguna de las otras respuestas es correcta.
+
+                                                   d. La definición del rendimiento térmico de un motor varía en función de las máquinas
+
+                                                   que lo contienen.
+
+                                                   2. Si se desea aprovechar un alto nivel de energía térmica de una corriente de fluido
+
+                                                   compresible, se requerirá de:
+
+                                                   a. Ninguna de las respuestas anteriores son correctas.
+
+                                                   b. Una máquina térmica motora, ya sea volumétrica o turbomáquina.
+
+                                                   c. Un motor térmico, ya sea de combustión interna o de combustión externa.
+
+                                                   d. Una máquina térmica generadora, como un turbocompresor accionado por un
+
+                                                   motor eléctrico.
+
+                                                   3. ¿En qué se asemejan los MEP de mezcla estratificada y de mezcla homogénea cuando
+
+                                                   funcionan a bajo grado de carga?
+
+                                                   a. La forma de iniciar la combustión.
+
+                                                   b. El dosado global de la cámara de combustión.
+
+                                                   c. El método de regular la carga.
+
+                                                   d. El momento de entrada del combustible al cilindro.
+
+                                                   4. ¿Cuál de los siguientes motores no utiliza válvula de escape?
+
+                                                   a. MEC de dos tiempos de barrido uniflujo.
+
+                                                   b. MEP de dos tiempos de barrido por cárter.
+
+                                                   c. MEP de cuatro tiempos.
+
+                                                   5. ¿Por qué se usa actualmente mezcla estequiométrica cuasi-exacta en los MEP?
+
+                                                   a. Por la obligatoriedad de la sonda lambda en el escape.
+
+                                                   b. Por el correcto funcionamiento del catalizador de tres vías.
+
+                                                   c. Por necesidades del sistema de inyección electrónica.
+
+                                                   6. Una mayor cilindrada unitaria manteniendo el mismo volumen final de compresión implica
+
+                                                   un mayor rendimiento del ciclo teórico de un motor de combustión interna alternativo.
+
+                                                   a. Falso
+
+                                                   b. Verdadero
+
+                                                   7. ¿Por qué la presencia de la turbina de gas no es habitual en automoción?
+
+                                                   a. Por su elevado régimen de giro.
+
+                                                   b. Por su alta potencia específica.
+
+                                                   c. Por su bajo rendimiento en condiciones operativas variables.
+
+                                                   8. En un MCIA a plena carga (grado de carga 100%), el mayor régimen de giro se da en la
+
+                                                   condición de:
+
+                                                   a. Potencia máxima.
+
+                                                   b. Par máximo.
+
+                                                   c. Consumo específico mínimo.
+
+                                                   9. ¿Cuál de las siguientes descripciones se aplicaría al compresor scroll de una bomba de
+
+                                                   calor para aire acondicionado?
+
+                                                   a. Una máquina térmica motora, turbomáquina.
+
+                                                   b. Una máquina térmica generadora, volumétrica, rotativa.
+
+                                                   c. Ninguna de las otras respuestas es correcta.
+
+                                                   d. Un motor térmico que utiliza fluido condensable, rotativo.
+
+                                                   10. ¿Cuál de los siguientes elementos constructivos no te lo encontrarías en un pequeño motor
+
+                                                   sencillo y de bajo coste que acciona una bomba de riego?
+
+                                                   a. Bujía.
+
+                                                   b. Cigueñal.
+
+                                                   c. Árbol de levas.                                                .
+
+                                                   Reservados todos los derechos. No se permite la explotación económica ni la transformación de esta obra. Queda permitida la impresión en su totalidad.
+a64b0469ff35958ef4ab887a898bd50bdfbbe91a-12846762
+
+                                                             d. Válvula de mariposa.                                                                  Reservados todos los derechos. No se permite la explotación económica ni la transformación de esta obra. Queda permitida la impresión en su totalidad.
+                                                   11. Señala los motores de combustión interna alternativos que utilizan bujías:
+
+                                                             a. Todos los MCIA utilizan bujías.
+                                                             b. MEP.
+                                                             c. MEC, MEP de mezcla homogénea y MEP de mezcla estratificada.
+                                                   12. ¿Cuál de los siguientes rangos de potencia máxima son habituales en MCIA para vehículos
+                                                        de automoción de cuatro ruedas?
+                                                             a. 40-700 kW.
+                                                             b. 400 kW-7 MW.
+                                                             c. 4-70 kW.
+                                                             d. 4-700 W
+                                                   13. Los motores de encendido por compresión:
+                                                             a. Pueden sufrir el fenómeno de picado.
+                                                             b. Utilizan combustibles ligeros volátiles, como el etanol.
+                                                             c. Tienen una mezcla aire-combustible homogénea en la cámara de combustión.
+                                                             d. Emiten muchas más partículas que los MEP.
+                                                   14. ¿En qué se transforman principalmente las pérdidas mecánicas por rozamiento de un
+                                                        MCIA?
+                                                             a. En pérdidas de bombeo.
+                                                             b. En potencia indicada.
+                                                             c. En calor cedido al lubricando y al refrigerante.
+                                                             d. En pérdidas por combustión incompleta.
+                                                   15. La máquina de vapor es:
+                                                             a. Una máquina térmica motora turbomáquina.
+                                                             b. Un motor de combustión interna de aspiración natural.
+                                                             c. Un motor térmico de combustión externa.
+                                                   16. ¿En qué motor utilizarías un combustible sintético (e-fuel) pesado con alta tendencia a la
+                                                        autoinflamación?
+                                                             a. MEC
+                                                             b. MEP
+                                                   17. En los MCIA refrigerados por líquido:
+                                                             a. La inercia térmica es menor que en los MCIA refrigerados por aire.
+                                                             b. El radiador es eficaz en aplicaciones no estacionarias.
+                                                             c. Existe un termostato encargado de abrir o cerrar el paso del líquido refrigerante al
+
+                                                                   radiador.
+                                                             d. El líquido refrigerante es bombeado desde el cárter hasta las cavidades del bloque
+
+                                                                   motor alrededor de las camisas.
+                                                   18. ¿Cuál de la siguientes emisiones atmosféricas es más relevante en una turbina de gas que
+
+                                                        genera electricidad en una isla?
+                                                             a. Monóxido de carbono, ya que la combustión es incompleta.
+                                                             b. Ácido sulfhídrico, ya que el combustible que usa es de mala calidad.
+                                                             c. Óxidos de nitrógeno, ya que la temperatura de combustión es elevada.
+
+                                                   .
+
+                                                   Súmate con Domino’s Pizza y Fundación Theodora a regalar muchas más sonrisas.
+
